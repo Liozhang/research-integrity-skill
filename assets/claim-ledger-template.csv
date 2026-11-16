@@ -1,0 +1,4 @@
+引用编号,报告论断,来源,取证通道,来源原句,判定,处置
+15,"分子预测 dd-cfDNA≥1% 的 AUC 0.80 优于组织学+DSA 0.71（P=0.003）",PMID 35058354,PMC 全文,"area under the ROC curves for the out-of-bag (bootstrapped) predicted values: 0.80 versus 0.71, P=0.003",确认,保留并注明系 out-of-bag 预测值
+20,"训练队列 AUC 0.864 / NPV 98.3% / NanoString 复测 AUC 0.847 / 7 中心 447 例 NPV 96.1%",PMID 36990211,HAL 全文,"AUC of 0.864 ... NPV of 98.3% ... AUC of 0.847 ... cohort of 447 patients ... NPV of 96.1%",确认,保留；AUC 0.864 口径改为 441 例方案活检子集
+14,"349 例 FFPE，9 基因 AMR 评分准确率 0.92/特异度 0.98，高评分者 5 年失功率 100% vs 39%",PMID 37172690,摘要+全文,"（待填：摘要或全文原句）",待验证,取全文核对三项数字
