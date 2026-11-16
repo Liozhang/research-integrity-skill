@@ -58,7 +58,7 @@
 ```bash
 # 本地网关依赖的 skill：按你环境说明探测端口（示例）
 curl -s -m 5 -o /dev/null -w "%{http_code}" http://127.0.0.1:<端口>/get_token   # 000 = 不可用
-mcporter list   # 或你宿主的 MCP 列表命令，确认浏览器/文档类 MCP 是否 healthy
+# 用你宿主的 MCP 列表命令，确认浏览器/文档类通道是否 healthy
 ```
 
 ## 证据级别定义
